@@ -1,0 +1,20 @@
+{
+  "name": "vnpt-component-kits",
+  "version": "1.0.5",
+  "description": "VNPT Platform provides a system of pre-built UI components called Component Kits.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "VNPT-Media",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "16.9.0",
+    "react-native": "^0.71.7"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "react-native-fast-image": "^8.6.3",
+    "react-native-linear-gradient": "^2.6.2"
+  }
+}
